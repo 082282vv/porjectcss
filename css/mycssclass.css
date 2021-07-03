@@ -1,0 +1,11 @@
+.center{
+    text-align: center;
+    color: deeppink;
+}
+p.center{
+    text-align: center;
+    color: forestgreen;
+}
+p.large{
+    font-size: 300%;
+}
