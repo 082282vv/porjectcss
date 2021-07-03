@@ -1,0 +1,18 @@
+#p1 {
+    text-align:  center;
+    color: red;
+}
+#p2{
+    text-align: left;
+    font-size: 50px;
+    color:blueviolet;
+    background-color: burlywood;
+}
+#p3 {
+    font-size: 70px;  
+    text-align: right;
+    color: aquamarine; 
+}
+ #boby{
+     background-color: deeppink;
+ }   
